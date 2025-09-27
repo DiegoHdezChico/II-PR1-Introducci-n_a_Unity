@@ -6,8 +6,6 @@
 ### Incluir objetos 3D básicos
 Para realizar este apartado, hemos creado un gran cubo en al que hemos aplicado textura de piedra. Además, de una serie de cubos deformados y rotados para crear una especie de 'parkour' para llegar a la cima del primer cubo.
 
----
-
 ### Incluir  en el proyecto el paquete Starter Assets.
 Esta parte ha sido llevada a cabo durante la propia práctica. No ha sido necesario más que ir a la **Unity Asset Store** y tomar desde allí los elementos necesarios.
 
